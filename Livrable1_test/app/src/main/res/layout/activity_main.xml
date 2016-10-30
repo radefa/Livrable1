@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="8"
+    android:rowCount="8"
+    android:orientation="horizontal"
+    tools:context="com.example.dpyth.livrable1_test.MainActivity">
+    <ImageView
+        android:id="@+id/seamless_wood0"
+        android:layout_gravity="start|top"
+        android:scaleType="centerInside"
+        android:adjustViewBounds="true"
+        android:layout_rowSpan="1"
+        android:layout_columnSpan="1"
+        android:src="@drawable/seamless_wood"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="0" />
+
+    <ImageView
+        android:id="@+id/black_rook_st"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_rook_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="0" />
+
+    <ImageView
+        android:id="@+id/background_dark1"
+        android:layout_gravity="left|top"
+        android:src="@drawable/background_dark"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="1" />
+
+    <ImageView
+        android:id="@+id/black_knight_st"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_knight_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="1" />
+    <ImageView
+        android:id="@+id/seamless_wood2"
+        android:layout_gravity="start|top"
+        android:scaleType="centerInside"
+        android:adjustViewBounds="true"
+        android:layout_rowSpan="1"
+        android:layout_columnSpan="1"
+        android:src="@drawable/seamless_wood"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="2" />
+
+    <ImageView
+        android:id="@+id/black_bishop_st"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_bishop_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="2" />
+    <ImageView
+        android:id="@+id/background_dark3"
+        android:layout_gravity="left|top"
+        android:src="@drawable/background_dark"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="3" />
+
+    <ImageView
+        android:id="@+id/black_queen_st"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_queen_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="3" />
+    <ImageView
+        android:id="@+id/seamless_wood4"
+        android:layout_gravity="start|top"
+        android:scaleType="centerInside"
+        android:adjustViewBounds="true"
+        android:layout_rowSpan="1"
+        android:layout_columnSpan="1"
+        android:src="@drawable/seamless_wood"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="4" />
+    <ImageView
+        android:id="@+id/black_king_st"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_king_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="4" />
+    <ImageView
+        android:id="@+id/background_dark5"
+        android:layout_gravity="left|top"
+        android:src="@drawable/background_dark"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="5" />
+
+    <ImageView
+        android:id="@+id/black_bishop_st2"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_bishop_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="5" />
+    <ImageView
+        android:id="@+id/seamless_wood6"
+        android:layout_gravity="start|top"
+        android:scaleType="centerInside"
+        android:adjustViewBounds="true"
+        android:layout_rowSpan="1"
+        android:layout_columnSpan="1"
+        android:src="@drawable/seamless_wood"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="6" />
+    <ImageView
+        android:id="@+id/black_king_st2"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_king_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="6" />
+    <ImageView
+        android:id="@+id/background_dark7"
+        android:layout_gravity="left|top"
+        android:src="@drawable/background_dark"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="7" />
+
+    <ImageView
+        android:id="@+id/black_rook_st2"
+        android:layout_gravity="left|top"
+        android:src="@drawable/black_rook_st"
+        android:layout_width="118dp"
+        android:layout_height="97dp"
+        android:layout_row="0"
+        android:layout_column="7" />
+
+</GridLayout>
